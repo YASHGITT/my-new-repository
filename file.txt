@@ -1,1 +1,2 @@
 this is my first file in git-line
+this is the fine in feature1 branch
