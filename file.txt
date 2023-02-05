@@ -1,2 +1,6 @@
 this is my first file in git-line
+<<<<<<< HEAD
 "2nd line commit" 
+=======
+this is the fine in feature1 branch
+>>>>>>> featurenew
